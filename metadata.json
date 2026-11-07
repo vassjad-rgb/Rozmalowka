@@ -1,0 +1,6 @@
+{
+  "name": "Розмальовка",
+  "description": "Захоплююча дитяча гра-розмальовка для малюків 4-6 років з великими контурами, боковою палітрою, рівнями та колекцією яскравих стікерів.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
